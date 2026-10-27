@@ -10,7 +10,7 @@
 
 ---
 
-# 🌌 eto
+# 🌌 ETO
 
 > ⚡ Building the future, one project at a time.
 

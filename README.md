@@ -31,46 +31,6 @@
 
 ---
 
-## 💜 About Me
-
-```js
-const eto44 = {
-    username: "Eto44",
-    role: "Developer",
-    interests: [
-        "Full-Stack Development",
-        "Minecraft Mods & Plugins",
-        "Discord Bots",
-        "Web Development",
-        "Automation"
-    ],
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "Java",
-        "HTML",
-        "CSS",
-        "Python"
-    ],
-    tools: [
-        "IntelliJ IDEA",
-        "Visual Studio Code",
-        "Git",
-        "GitHub",
-        "Node.js"
-    ],
-    motto: "Code. Create. Repeat. ⚡"
-};
-```
-
-- 🚀 Building projects and experimenting with new technologies.
-- 🎮 Creating Minecraft mods, plugins and custom features.
-- 🤖 Developing Discord bots and automation tools.
-- 🌐 Exploring web development and modern interfaces.
-- 🧠 Always learning something new.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=HEY%2C+I'M+ETO44+%F0%9F%91%8B;FULL-STACK+DEVELOPER;MINECRAFT+DEVELOPER;BUILDING+COOL+STUFF" width="100%" alt="Eto44 Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=HEY%2C+I'M+ETO44+%F0%9F%91%8B;FULL-STACK+DEVELOPER" width="100%" alt="Eto44 Typing Animation"/>
 
 <br>
 
@@ -90,23 +90,6 @@ const eto44 = {
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eto44&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eto44&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Most Used Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Eto44&theme=transparent&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">

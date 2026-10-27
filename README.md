@@ -19,10 +19,6 @@
 
 <br><br>
 
-### ⚡ `Turning ideas into reality.`
-
-*Developer • Minecraft Enthusiast • Tech Explorer*
-
 <br>
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,python,nodejs&theme=dark" alt="Tech Stack"/>

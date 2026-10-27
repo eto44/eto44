@@ -14,10 +14,6 @@
 
 > ⚡ Building the future, one project at a time.
 
-I'm **03h03** — a developer creating modern applications, APIs and digital tools.
+I'm **Eto44** — a developer creating modern applications, APIs and digital tools.
 
 I love building projects, learning new technologies and turning ideas into real products.
-
----
-
-## 🚀 What I'm Building
